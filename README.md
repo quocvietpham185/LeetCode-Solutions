@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
