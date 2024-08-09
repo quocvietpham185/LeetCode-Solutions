@@ -28,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2556-convert-the-temperature](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
