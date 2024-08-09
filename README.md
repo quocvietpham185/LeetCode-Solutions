@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
