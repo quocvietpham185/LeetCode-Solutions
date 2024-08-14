@@ -5,10 +5,10 @@ public:
         for(int i = 0; i < nums.size();i++){
             for(int j=i+1; j < nums.size();j++){
                 for(int k = j+1; k < nums.size();k++){
-                    if(i < j && j < k){
+                    
                         if(nums[j] - nums[i] == diff && nums[k] - nums[j] == diff){
                             a++;
-                        }
+                        
                     }
                 }
             }
