@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2442-number-of-arithmetic-triplets](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quocvietpham185/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
